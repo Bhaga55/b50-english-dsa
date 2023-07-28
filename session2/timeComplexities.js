@@ -226,7 +226,7 @@
     Time Complexity = ?
 
     N = 6, i = 3, 4, 5, 6 => 4
-    N = 5, i = 3, 4, 5, 6 => 4
+    N = 5, i = 3, 4, 5=> 3
 
     Outer loop: N/2 + 1
 
